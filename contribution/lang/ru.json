@@ -24,7 +24,7 @@
  	"ui": {
  	 	"blackMarket": {
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Распечатать и продайте",
+ 	 	 	 	"trans": "Распечатать и продать",
  	 	 	 	"eng": "Print And Sell"
  	 	 	}
  	 	},
@@ -137,7 +137,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Вы нашли заблокированную сейф с цветной клавиатурой, вы должны разблокировать её, введя правильную последовательность цветов.",
+ 	 	 	 	 	"trans": "Ты нашёл заблокированный сейф с цветной клавиатурой, ты должен разблокировать её, введя правильную последовательность цветов.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
@@ -151,7 +151,7 @@
  	 	 	 	 	"eng": "seconds"
  	 	 	 	},
  	 	 	 	"colorBox": {
- 	 	 	 	 	"trans": "Нажмите на этот цвет ниже",
+ 	 	 	 	 	"trans": "Нажми на этот цвет ниже",
  	 	 	 	 	"eng": "Click on this color below"
  	 	 	 	},
  	 	 	 	"lose": {
@@ -160,12 +160,12 @@
  	 	 	 	 	 	"eng": "Decryption failed"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Нажмите на правильную последовательность цвета, чтобы разблокировать",
+ 	 	 	 	 	 	"trans": "Нажми на правильную последовательность цвета, чтобы разблокировать",
  	 	 	 	 	 	"eng": "Click on the correct color sequence to unlock"
  	 	 	 	 	},
  	 	 	 	 	"button": {
  	 	 	 	 	 	"title": {
- 	 	 	 	 	 	 	"trans": "Попробуйте снова",
+ 	 	 	 	 	 	 	"trans": "Попробуй снова",
  	 	 	 	 	 	 	"eng": "Try Again"
  	 	 	 	 	 	}
  	 	 	 	 	}
@@ -430,7 +430,7 @@
  	 	 	},
  	 	 	"bindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Выберите предмет для привязки к слоту быстрого доступа",
+ 	 	 	 	 	"trans": "Выбери предмет для привязки к слоту быстрого доступа",
  	 	 	 	 	"eng": "Select a usable item to bind to a quick slot"
  	 	 	 	}
  	 	 	}
@@ -4674,7 +4674,7 @@
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "С помощью манинга ты заработаешь Биткоины, однако из-за слишком большой нагрузки хэш процессоры, более известные как КВМ (Квантовые Вычислительные Машины) часто выгорают.",
+ 	 	 	 	"trans": "С помощью майнинга ты заработаешь Биткоины, однако из-за слишком большой нагрузки хэш процессоры, более известные как КВМ (Квантовые Вычислительные Машины) часто выгорают.",
  	 	 	 	"eng": "Engaging in crypto mining will earn you Bitcoins, however due to the intense use of the Hash Processors, the Quantum Processing Unit, otherwise known as the QPU, will often burn out."
  	 	 	}
  	 	},
@@ -4887,17 +4887,17 @@
  	 	 	 	 	"eng": "Open Crate"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Открыть ящик в подземелье",
+ 	 	 	 	 	"trans": "Открой ящик в подземелье",
  	 	 	 	 	"eng": "Open crate in dungeon"
  	 	 	 	}
  	 	 	},
  	 	 	"sellItem": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Стань торговцем",
+ 	 	 	 	 	"trans": "Стать торговцем",
  	 	 	 	 	"eng": "Be a merchant"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Поместить товар на рынок",
+ 	 	 	 	 	"trans": "Помести товар на рынок",
  	 	 	 	 	"eng": "Place an item on the market"
  	 	 	 	}
  	 	 	}
@@ -4928,7 +4928,7 @@
  	 	},
  	 	"christmasGift": {
  	 	 	"name": {
- 	 	 	 	"trans": "Разблокировать таинственный контейнер",
+ 	 	 	 	"trans": "Вскрыть таинственный контейнер",
  	 	 	 	"eng": "Unlock Mysterious Container"
  	 	 	}
  	 	},
@@ -4968,7 +4968,7 @@
  	 	},
  	 	"aiCoreCluster": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ai Core Cluster",
+ 	 	 	 	"trans": "Основной Кластер ИИ",
  	 	 	 	"eng": "AI Core Cluster"
  	 	 	}
  	 	},
@@ -5060,7 +5060,7 @@
  	 	 	 	 	"enemyName",
  	 	 	 	 	"value"
  	 	 	 	],
- 	 	 	 	"trans": "${enemyName} атаковал вас, получено ${value} урона",
+ 	 	 	 	"trans": "${enemyName} атаковал тебя, получено ${value} урона",
  	 	 	 	"eng": "${enemyName} attacked you, received ${value} damage"
  	 	 	},
  	 	 	"playerAttack": {
@@ -5068,7 +5068,7 @@
  	 	 	 	 	"enemyName",
  	 	 	 	 	"value"
  	 	 	 	],
- 	 	 	 	"trans": "Вы атаковали ${enemyName}, нанесено ${value} урона",
+ 	 	 	 	"trans": "Ты атаковал ${enemyName}, нанесено ${value} урона",
  	 	 	 	"eng": "You attacked ${enemyName}, dealing ${value} damage"
  	 	 	}
  	 	}
@@ -5181,7 +5181,7 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"expMultiplier"
  	 	 	 	],
- 	 	 	 	"trans": "Рекомендуемый уровень:　${maxLevel}+ с другими игроками\r\n                    ${expMultiplier}x больше EXP! И в 4 - 5 раз более сильные враги!\r\n                    Подземелье для банды, доп вещи и опыт. \r\n                    С босса падают вещи редкого и выше качества \r\n                    Не советуем входить если ваш уровень слишком низкий.\r\n                    *Не для слабонервных*",
+ 	 	 	 	"trans": "Рекомендуемый уровень:　${maxLevel}+ с другими игроками\r\n                    ${expMultiplier}x больше EXP! И в 4 - 5 раз более сильные враги!\r\n                    Подземелье для банды, доп вещи и опыт. \r\n                    С босса падают вещи редкого и выше качества \r\n                    Не советуем входить, если твой уровень слишком низок.\r\n                    *Не для слабонервных*",
  	 	 	 	"eng": "Recommended Level: ${maxLevel}+ with co-op\r\n                    ${2.3}x more EXP! and 4~5x stronger enemies!\r\n                    Gang mode dungeon, extra loot and exp.\r\n                    *Not for the faint of heart*"
  	 	 	}
  	 	},
@@ -5198,7 +5198,7 @@
  	 	 	"eng": "Send Invite To Chat"
  	 	},
  	 	"buttonTut": {
- 	 	 	"trans": "Вы достаточно сильны? Тогда сразитесь с более сильными врагами в подземелье! \r\n                         Не забудьте купить мед. оборудование! Вы не будете исцеляться после каждого боя в подземелье!",
+ 	 	 	"trans": "Ты думаешь, что достаточно силён? Тогда сразись с более сильными врагами в подземелье! \r\n                         Не забудь купить мед. оборудование! Ты не будешь исцеляться после каждого боя в подземелье!",
  	 	 	"eng": "Do you think you are strong enough? take on stronger enemies in dungeon!\r\n                        remember to buy some healing item! you won't regen after battle in dungeon"
  	 	}
  	},
@@ -5454,7 +5454,7 @@
  	 	 	 	"likerName",
  	 	 	 	"amount"
  	 	 	],
- 	 	 	"trans": "${likerName} отправил вам ${amount} уважения за Ваше использование пропуска",
+ 	 	 	"trans": "${likerName} отправил тебе ${amount} уважения за твоё использование пропуска",
  	 	 	"eng": "${likerName} has send you ${amount} respects for your skip"
  	 	}
  	},
@@ -5503,21 +5503,21 @@
  	 	 	 	"vars": [
  	 	 	 	 	"amount"
  	 	 	 	],
- 	 	 	 	"trans": "Вы собираетесь пожертвовать ${amount} Юнит(ов) из вашей учетной записи",
+ 	 	 	 	"trans": "Ты собираешься пожертвовать ${amount} Юнит(ов) из вашей учетной записи",
  	 	 	 	"eng": "This will donate ${amount} Unit from your account"
  	 	 	},
  	 	 	"notEnough": {
- 	 	 	 	"trans": "Вам не хватает Юнитов, чтобы пожертвовать.",
+ 	 	 	 	"trans": "Тебе не хватает Юнитов, чтобы пожертвовать.",
  	 	 	 	"eng": "You do not have enough Unit to donate."
  	 	 	}
  	 	},
  	 	"chatMessage": {
  	 	 	"block": {
- 	 	 	 	"trans": "Блокировать",
+ 	 	 	 	"trans": "Заблокировать",
  	 	 	 	"eng": "Block"
  	 	 	},
  	 	 	"openPlayerProfile": {
- 	 	 	 	"trans": "Просмотреть профиль",
+ 	 	 	 	"trans": "Просмотр профиля",
  	 	 	 	"eng": "View Profile"
  	 	 	},
  	 	 	"openPlayerGang": {
@@ -5539,7 +5539,7 @@
  	 	},
  	 	"block": {
  	 	 	"title": {
- 	 	 	 	"trans": "Вы уверены, что хотите заблокировать этот игрок?",
+ 	 	 	 	"trans": "Вы уверены, что хотите заблокировать этого игрока?",
  	 	 	 	"eng": "Are you sure you want to block this player?"
  	 	 	}
  	 	},
@@ -5781,7 +5781,7 @@
  	"gang": {
  	 	"permission": {
  	 	 	"invite": {
- 	 	 	 	"trans": "Приглашать",
+ 	 	 	 	"trans": "Пригласить",
  	 	 	 	"eng": "Invite",
  	 	 	 	"description": {
  	 	 	 	 	"trans": "Пригласите других игроков присоединиться к вашей банде.",
@@ -5789,10 +5789,10 @@
  	 	 	 	}
  	 	 	},
  	 	 	"kick": {
- 	 	 	 	"trans": "Пинать",
+ 	 	 	 	"trans": "Выгнать",
  	 	 	 	"eng": "Kick",
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Наденьте других игроков из вашей банды.",
+ 	 	 	 	 	"trans": "Выгоните других игроков из вашей банды.",
  	 	 	 	 	"eng": "Kick other players from your gang."
  	 	 	 	}
  	 	 	},
